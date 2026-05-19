@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.db
+*.db-journal
+.venv/
+venv/
+server/uploads/
+web-client/node_modules/
+web-client/dist/
